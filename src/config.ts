@@ -1,6 +1,6 @@
 // frontend/src/config.ts
 export const config = {
-  API_BASE_URL: 'https://clearsat-backend.onrender.com', // Hardcoded for now
+  API_BASE_URL: 'https://clearsat-backend.onrender.com/api', // Hardcoded for now
   APP_VERSION: '1.0.0',
   
   // Analysis defaults
