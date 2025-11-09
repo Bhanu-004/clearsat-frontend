@@ -1,8 +1,7 @@
 // frontend/src/config.ts
 export const config = {
-  API_BASE_URL: import.meta.env.VITE_API_BASE_URL || 'https://clearsat-backend.onrender.com',
+  API_BASE_URL: 'https://clearsat-backend.onrender.com', // Hardcoded for now
   APP_VERSION: '1.0.0',
-  // ... rest of your config
   
   // Analysis defaults
   DEFAULT_LOCATION: {
